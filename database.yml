@@ -1,8 +1,8 @@
 development:
   dialect: postgres
-  database: authRound2_development
-  user: postgres
-  password: postgres
+  database: authRound2
+  user: codyduskin
+  password:
   host: 127.0.0.1
   pool: 5
 

@@ -10,3 +10,4 @@ node_modules/
 public/assets/
 authRound2
 .vscode/
+.dotenv
